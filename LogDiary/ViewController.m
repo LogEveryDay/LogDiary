@@ -1,0 +1,27 @@
+//
+//  ViewController.m
+//  LogDiary
+//
+//  Created by MacBook on 15/10/13.
+//  Copyright © 2015年 MacBook. All rights reserved.
+//
+
+#import "ViewController.h"
+#import "DiaryMacro.h"
+@interface ViewController ()
+
+@end
+
+@implementation ViewController
+
+- (void)viewDidLoad {
+    [super viewDidLoad];
+
+}
+
+- (void)didReceiveMemoryWarning {
+    [super didReceiveMemoryWarning];
+    // Dispose of any resources that can be recreated.
+}
+
+@end
